@@ -1,4 +1,6 @@
 
+package jogo;
+
 public class Participante {
     private String apelido;
     private int totalTentativas;
